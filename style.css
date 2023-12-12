@@ -158,6 +158,7 @@ header .header nav .logo {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  text-decoration: none;
 }
 
 header .header nav a i {
