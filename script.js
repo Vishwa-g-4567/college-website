@@ -55,7 +55,7 @@ function sendEmail2() {
     Body:
       "Hello <b>" +
       document.getElementById("name").value +
-      ",</b> <br> <br> Thank you for submitting a form in my portfolio website and I will response your inquiry as soon as possible. <br> <br> <b> Thanking you, </b> <br> <b> Vishwa G, </b> <br> <b> Front-End Developer </b> ",
+      ",</b> <br> <br> Thank you for submitting a form in my website and I will response your inquiry as soon as possible. <br> <br> <b> Thanking you, </b> <br> <b> Vishwa G, </b> <br> <b> Front-End Developer </b> ",
   });
 }
 form.addEventListener("submit", (e) => {
